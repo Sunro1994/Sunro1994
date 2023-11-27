@@ -1,8 +1,8 @@
 ## 👋 안녕하세요, 이선로입니다 👋
 
-<a href="https://blog.naver.com/donny1848" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
+<a href="sunro1994.tistory.com" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
 <a href="https://alder-talon-aab.notion.site/SW-7336ab2bec9740239e6368c2dc46fc9a?pvs=4" target="_blank"><img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
-<a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/donny1848@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/gwangjulsr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
 저는 신입 **백엔드 개발자** 로 취직을 준비하고 있습니다.
