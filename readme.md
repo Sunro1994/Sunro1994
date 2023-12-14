@@ -10,14 +10,12 @@
 🌱현재 [JPA 그룹 스터디](https://github.com/LeeBG/JPA_Reapeat)를 진행하고 있습니다.
 
 
-🔭가장 최근에는
+🔭가장 최근에는 숙박 및 여행지 검색 사이트인 [TravelMaker프로젝트](https://github.com/Sunro1994/TotalRepository/tree/main/Project/TravelMaker)의 조장을 맡아 진행했습니다.
 
-프로젝트를 진행했습니다.
-
-새로운 기술과 도전을 시도하고 있으며, 지금은 JPA와 Node.js와 같은 다양한 백엔드 기술에 대해 관심을 가지고 있으며 공부할 계획입니다.
+새로운 기술과 도전을 시도하고 있으며, 지금은 JPA와 React.js와 같은 다양한 백엔드 기술에 대해 관심을 가지고 있으며 공부할 계획입니다.
 
 
-알고리즘 문제 해결 능력을 키우기 위해 문제풀이 사이트에서도 조금씩 풀고 있습니다.
+알고리즘 문제 해결 능력을 키우기 위해 문제풀이 사이트[백준](https://github.com/Sunro1994/TotalRepository/tree/main/Beakjoon),[프로그래머스](https://github.com/Sunro1994/TotalRepository/tree/main/Programmers)에서도 꾸준히 문제를 풀어나가고 있습니다.
 
 더 나은 개발자가 되기위해 열심히 배우고 있습니다.
 꾸준히 노력하여 좋은 개발자가 되겠습니다.
