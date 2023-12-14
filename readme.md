@@ -1,7 +1,7 @@
 ## 👋 안녕하세요, 이선로입니다 👋
 
-<a href="sunro1994.tistory.com" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="[sunro1994.tistory.com](https://sunro1994.tistory.com/)" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
+<a href="https://bitter-gambler-dbe.notion.site/db375818e67f459b93fd08e75937101c?v=9830e0e91782464c94499c40a4aea02d&pvs=4" target="_blank"><img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/gwangjulsr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
