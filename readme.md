@@ -7,7 +7,7 @@
 
 저는 신입 **백엔드 개발자** 로 취직을 준비하고 있습니다.
 
-🌱현재 [JPA 그룹 스터디](https://github.com/LeeBG/JPA_Reapeat)를 진행하고 있습니다.
+🌱현재 [CS 및 알고리즘 스터디](https://bitter-gambler-dbe.notion.site/bc1bc8dadcf44ab3b98665457a2d2d88?v=c6c5155fb2c0473ba91a556c71ddee3e&pvs=4)를 진행하고 있습니다.
 
 
 🔭가장 최근에는 숙박 및 여행지 검색 사이트인 [TravelMaker프로젝트](https://github.com/Sunro1994/TotalRepository/tree/main/Project/TravelMaker)의 조장을 맡아 진행했습니다.
