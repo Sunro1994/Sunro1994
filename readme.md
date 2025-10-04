@@ -65,10 +65,24 @@
 </div>
 
 ## 프로젝트
+- Early-bird Ticket
+  - [소개보기](https://github.com/earlybird-ticket/backend)
+  - 맡은 역할
+    - 데이터 조회 및 변경 전파를 위한 **Feign** 동기 통신 연결 및 **Kafka** 비동기 이벤트 발행/소비
+    - **Redis, Lua Script**를 활용한 선착순 좌석 선점 처리 시스템
+    - **Batch**를 이용한 DB부하 방지 주기적 데이터 처리 및 일정 기간 자동 프로모션 적용
+    - **Prometheus, Grafana** 성능 모니터링 및 시각화 대시보드 개발
+    - 핵심 도메인(인증, 예약) API 개발 
+- Owl-Express
+    - [소개보기](https://github.com/over-time-worker/backend)
+      - 맡은 역할
+        - 데이터 조회 및 변경 전파를 위한 Feign 동기 통신
+        - 배송 경로 생성을 위한 다익스트라 기반 최단 거리 계산 알고리즘 개발
+        - 핵심 도메인(상품, 배송매니저 관리자, 허브 정보 관리) 도메인 API 개발
 
-- 같이걷개(현재 진행중)
+- 같이걷개
     - [소개 보기](https://www.notion.so/48d845bdfd87483a92163082524ba136?pvs=21)
-    - 맡은 역할[진행중]
+    - 맡은 역할
         - Spring Security를 활용한 인증/인가 구현
         - JWT 토큰 방식의 인증 방식 구현
         - Oauth2.0 을 활용한 소셜 로그인 구현
@@ -79,20 +93,7 @@
         - Git Action을 활용한 무중단 지속적 배포
     
     [https://github.com/Pupket/togedog-server](https://github.com/Pupket/togedog-server)
-    
-- Mentit [진행중]
-    - 맡은역할
-        - AOP를 활용한 logging 구현
-        - 테스트 코드 작성 및 test coverage  확인
-        - Spring Security 인증 및 인가 구현
-        - jwt을  사용한 토큰 인증 방식 구현
-        - Oauth2.0을 활용한 소셜 로그인 구현
-        - Java Mail Sender를 활용한 메일 인증 구현
-        - AWS EC2 서버 운영
-        - AWS RDS를 통한 DB 관리
-        - AWS S3를 사용한 프로필 이미지 저장
-        - Docker를 활용한 서버 배포
-        - Git Action을 활용한 무중단 지속적 배포
+  
      
 ## 📑 License
 
@@ -122,7 +123,7 @@
 - 국비훈련 스터디(2023-05 ~ 2023-12)
     - Java의 정석 회독 스터디
     - JSP 복습 스터디
-- CS및 알고리즘 스터디( 2023- 03 ~ 현재 진행중)
+- CS및 알고리즘 스터디( 2024- 03 ~ 현재 진행중)
     - CS 주차별 내용 발표
     - 알고리즘 문제 풀이
 
@@ -130,40 +131,3 @@
 
 - 4학년 컴퓨터 공학과 졸업 작품 과외
 - 2년차 프론트 개발자에게 Java 기초 과외
-
----
-
-# 📚 Education
-
-## ❇️광주대학교 간호학과 졸업 (2013.02~2022.03)
-
-## KG ITBANK 단과 종합과정 수료
-
-- **Python 기초 (2022년 10월):** 파이썬의 기본 문법과 프로그래밍 기초 개념을 학습하였으며, 다양한 데이터 구조와 함수 작성 방법을 익혔습니다.
-- **리눅스1 (2022년 11월):** 리눅스 운영체제의 기본 명령어 사용법과 파일 시스템 관리, 사용자 권한 설정 등을 배웠습니다.
-- **리눅스2 (2022년 12월):** 쉘 스크립트 작성법과 네트워크 설정, 프로세스 관리 등 리눅스 심화 내용을 학습했습니다.
-- **JAVA (2023년 1월):** 객체 지향 프로그래밍의 개념과 자바의 기본 문법을 익히고, 간단한 애플리케이션 개발 실습을 진행했습니다.
-- **JSP (2023년 3월):** 자바 서버 페이지를 이용한 웹 개발 기초를 배우고, MVC 패턴을 적용한 웹 애플리케이션을 구현했습니다.
-- **Spring Framework (2023년 4월):** 스프링 프레임워크의 기본 구조와 DI, AOP 등을 활용한 웹 애플리케이션 개발 방법을 학습했습니다.
-
-## 빅데이터 솔루션 융합 SW 개발자 양성 수료 (2023년 5월 ~ 2023년 11월)
-
-- 웹 개발에 필요한 Java, JSP, Spring Framework를 학습하였습니다.
-
-## 김영한의 JPA 로드맵 과정 수료
-
-- JPA와 Hibernate를 활용한 데이터베이스 연동 기법을 학습하고, 실무에서의 엔티티 설계와 성능 최적화 방법을 익혔습니다.
-
-## [Udemy] Spring Security6 초보부터 마스터되기
-
-- Spring Security6을 활용한 인증 및 권한 관리 기법을 학습하고, 실무 환경에서의 보안 문제 해결 방법을 익혔습니다.
-
-## [Udemy] SpringBoot 3 & Spring Framework 6 마스터하기
-
-- SpringBoot 3와 Spring Framework 6을 이용한 애플리케이션 개발 과정을 학습하고, RESTful API 구현 및 테스트 자동화 기술을 익혔습니다.
-
-<br/>
-<br/>
-<br/>
-
-![Sunro1994's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunro1994&show_icons=true&theme=radical)
